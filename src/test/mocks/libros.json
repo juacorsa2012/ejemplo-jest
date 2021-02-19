@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "56955ca46063c5600627f393",
+        "titulo": "Titulo 1",
+        "observaciones": "Observaciones",
+        "tema": "Tema 1",
+        "idioma": "Idioma 1",
+        "paginas": 250,
+        "publicado": 2020,
+        "__v": 0
+    },
+    {
+        "_id": "2",
+        "titulo": "Titulo 2",
+        "observaciones": "Observaciones 2",
+        "tema": "Tema 2",
+        "idioma": "Idioma 2",
+        "paginas": 20,
+        "publicado": 2019,
+        "__v": 0
+    }
+]

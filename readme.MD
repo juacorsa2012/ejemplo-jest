@@ -1,0 +1,1 @@
+# Ejemplo simple de pruebas unitarias y de integración con Jest
